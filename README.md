@@ -8,6 +8,7 @@ Currently I'm looking for a co-op position for Fall 2021. Feel free to contact m
 🏖️ I am very comfortable with...
 - Java 
 - Python
+
 🌱 I am learning... 
 - C++ 
 - JS
