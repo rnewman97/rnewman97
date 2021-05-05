@@ -20,7 +20,7 @@ I'm a recent graduate from the University of Toronto, currently pursuing a secon
 #### 📫 Contact Me
 LinkedIn: [Robert's LinkedIn Profile](https://www.linkedin.com/in/robert-newman-8474aa192/)
 
-Email: robert (dot) newman (at) alumni (dot) ubc (dot) ca 
+Email: r (dot) newman (at) alum (dot) utoronto (dot) ca 
 
 <!--
 **rnewman97/rnewman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
