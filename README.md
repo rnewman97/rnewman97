@@ -8,9 +8,9 @@ I'm a recent graduate from the University of Toronto, currently pursuing a secon
 🏖️ I am very comfortable with...
 - Java 
 - Python
+- C++ 
 
 🌱 I am learning... 
-- C++ 
 - JS
 - MERN 
 
