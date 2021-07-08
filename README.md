@@ -2,8 +2,6 @@
 
 I'm a recent graduate from the University of Toronto, currently pursuing a second degree in computer science at the University of British Columbia. I graduated with an H.BSc in psychology, and fell in love with computer science during my first job in research. I'm passionate about tech education, the social impact of computing, and the "why" behind good code. 
 
-### Currently I'm looking for a co-op position for Fall 2021. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/robert-newman-8474aa192/) if you would like to connect. 
-
 #### Languages and Frameworks
 🏖️ I am very comfortable with...
 - Java 
