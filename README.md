@@ -13,7 +13,7 @@ I'm a recent graduate from the University of Toronto, currently pursuing a secon
 - MERN 
 
 #### 🔧 I'm currently working on...
-- [Jellee](https://github.com/rnewman97/jellee-app), a MERN app to connect local musicians to facilitate jam sessions and recording.
+- [Jellee](https://github.com/rnewman97/jellee), a web app to connect local musicians to facilitate jam sessions and recording.
 
 #### 📫 Contact Me
 LinkedIn: [Robert's LinkedIn Profile](https://www.linkedin.com/in/robert-newman-8474aa192/)
